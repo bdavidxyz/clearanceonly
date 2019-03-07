@@ -1,7 +1,4 @@
-class ArticlesController < ApplicationController
-  # before_action :require_login
-
-  def index
-    
+class WelcomeController < ApplicationController
+  def index    
   end
 end
